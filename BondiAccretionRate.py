@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-# Calculates Bondi accretion rate for various types of interstellar gas
+# Calculates and plots the Bondi accretion rate for various types of interstellar gas
 
 import numpy as np
 import matplotlib.pyplot as plt
