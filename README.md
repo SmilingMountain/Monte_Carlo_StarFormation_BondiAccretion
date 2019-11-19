@@ -8,6 +8,6 @@ In the regions where star formation is ongoing, the gas accumulates in different
 
 This project presents a study done on star formation with the 1-dimensional spherically symmetric Bondi model. Because it is spherically symmetric, it does not allow for accretion discs or planet formation. We can, however address the growth and mass distribution of stars. The Bondi model is a solution of the hydrodynamics equations, which describe gas flows in the presence of a (proto-) star's gravity and pressure.
 
-The aim of this project is to look into the formation of stars in an interstellar gas cloud with the 1-dimensional spherically symmetric Bondi model. By using a Monte Carlo simulation done in Python, we study Bondi accretion and generate an Initial Mass Function that is then compared to the observed IMF from the Salpeter law.
+The aim of this project is to look into the formation of stars in an interstellar gas cloud with the 1-dimensional spherically symmetric Bondi model. By using a Monte Carlo simulation done in Python, we study Bondi accretion and generate an Initial Mass Function (IMF) that is then compared to the observed IMF from the Salpeter law.
 
 The full project report contains all the necessary background information and details, equations, methods used, results and conclusions. The MATLAB script files contain code for the various cases considered, as detailed in their descriptions, and include an appropriate level of commenting and documentation.
