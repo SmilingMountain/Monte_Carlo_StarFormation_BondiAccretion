@@ -22,6 +22,7 @@ def pdf(x,zeta0):
     Output: 
     Initial Mass Function ξ(M)  (IMF) i.e. the number of stars in the cluster
     with masses between M and M + ΔM
+    Here we use M^(-2) as the cluster is exposed for a long enough time to Bondi accretion
     """
     return zeta0*x**(-2)
 
